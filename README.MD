@@ -1,6 +1,7 @@
 # Documentação Resumida - Refatoração com Padrões de Projeto
 
-Alunos: Pedro Henrique Cunha Moda e Carlos Koiti Yamanaka.
+Alunos: Pedro Henrique Cunha Moda e Carlos Koiti Yamanaka. <br/>
+Repositorio com projeto disponivel em: [github.com/pedrohcmoda/design-patterns-refactoring](https://github.com/pedrohcmoda/design-patterns-refactoring)
 
 ## Padrões Aplicados
 
